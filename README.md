@@ -1,6 +1,7 @@
 # DCMIT
-[![Paper](http://img.shields.io/badge/paper-arxiv.1911.00679-B31B1B.svg)](https://arxiv.org/abs/1911.00679)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.5](https://img.shields.io/badge/python-3.6-green.svg)](https://www.python.org/)
+[![PyTorch 1.0](https://img.shields.io/badge/pytorch-1.0-green.svg)](https://pytorch.org/)
 Authors: **Weihao Xia**, Yujiu Yang, Jing-Hao Xue.
 
 Contact: xiawh3@outlook.com
@@ -36,7 +37,6 @@ The different domains in a dataset should be placed in folders "trainA, trainB, 
 <p align="center">
   <img src="/asserts/deblur_ours.jpg">
 </p>
-
 
 **Unsupervised Multi-Domain Multimodal Image-to-Image Translation with Explicit Domain-Constrained Disentanglement.**</br>
 *Weihao Xia, Yujiu Yang, Jing-Hao Xue.*</br>

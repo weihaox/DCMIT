@@ -2,11 +2,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.5](https://img.shields.io/badge/python-3.6-green.svg)](https://www.python.org/)
 [![PyTorch 1.0](https://img.shields.io/badge/pytorch-1.0-green.svg)](https://pytorch.org/)
+
+
+Pytorch implementation of Elsevier Neural Networks **Unsupervised Multi-Domain Multimodal Image-to-Image Translation with Explicit Domain-Constrained Disentanglement**.
+
 Authors: **Weihao Xia**, Yujiu Yang, Jing-Hao Xue.
 
 Contact: xiawh3@outlook.com
-
-Pytorch implementation of Elsevier Neural Networks **Unsupervised Multi-Domain Multimodal Image-to-Image Translation with Explicit Domain-Constrained Disentanglement**.
 
 ## Datasets
 

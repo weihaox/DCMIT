@@ -10,6 +10,10 @@ Authors: **Weihao Xia**, Yujiu Yang, Jing-Hao Xue.
 
 Contact: xiawh3@outlook.com
 
+We propose explicit disentanglement learning constraints with domain supervision, which investigates how to extract domain supervision information so as to learn explicit disentangled representations to avoid the confusion of content and style.
+
+This work is done in March 2019. The original code was lost after my graduation. But it would not be so difficult to implement the intra-domain translation module based on the inter-domain translation. Furthermore, this module is to make the disentanglement of style and content more accurate, the content loss can be act as a similar role, as demonstrated in our paper.
+
 ## Datasets
 
 We use three multi-domain datasets for experiments: Art, Weather, Season. Notice that all images in these datasets are not paired.

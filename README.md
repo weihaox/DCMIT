@@ -8,7 +8,7 @@ Pytorch implementation of Elsevier Neural Networks **Unsupervised Multi-Domain M
 
 Authors: **Weihao Xia**, Yujiu Yang, Jing-Hao Xue.
 
-Contact: xiawh3@outlook.com
+Contact: xiawh3 AT outlook.com
 
 We propose explicit disentanglement learning constraints with domain supervision, which investigates how to extract domain supervision information so as to learn explicit disentangled representations to avoid the confusion of content and style.
 
